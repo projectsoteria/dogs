@@ -1,8 +1,5 @@
-<html>
-<body>
+<?php
 
- ID: <?php echo $_POST["id"]; ?>
+var_dump($POST);
 
-
-</body>
-</html>
+?>
